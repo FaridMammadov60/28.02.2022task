@@ -1,0 +1,16 @@
+C:\Users\farid\Desktop\P322\Code\28.02.2022task\ConsoleApp28.02.2022\ConsoleApp28.02.2022\obj\Debug\net5.0\ConsoleApp28.02.2022.csproj.AssemblyReference.cache
+C:\Users\farid\Desktop\P322\Code\28.02.2022task\ConsoleApp28.02.2022\ConsoleApp28.02.2022\obj\Debug\net5.0\ConsoleApp28.02.2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farid\Desktop\P322\Code\28.02.2022task\ConsoleApp28.02.2022\ConsoleApp28.02.2022\obj\Debug\net5.0\ConsoleApp28.02.2022.AssemblyInfoInputs.cache
+C:\Users\farid\Desktop\P322\Code\28.02.2022task\ConsoleApp28.02.2022\ConsoleApp28.02.2022\obj\Debug\net5.0\ConsoleApp28.02.2022.AssemblyInfo.cs
+C:\Users\farid\Desktop\P322\Code\28.02.2022task\ConsoleApp28.02.2022\ConsoleApp28.02.2022\obj\Debug\net5.0\ConsoleApp28.02.2022.csproj.CoreCompileInputs.cache
+C:\Users\farid\Desktop\P322\Code\28.02.2022task\ConsoleApp28.02.2022\ConsoleApp28.02.2022\bin\Debug\net5.0\ConsoleApp28.02.2022.exe
+C:\Users\farid\Desktop\P322\Code\28.02.2022task\ConsoleApp28.02.2022\ConsoleApp28.02.2022\bin\Debug\net5.0\ConsoleApp28.02.2022.deps.json
+C:\Users\farid\Desktop\P322\Code\28.02.2022task\ConsoleApp28.02.2022\ConsoleApp28.02.2022\bin\Debug\net5.0\ConsoleApp28.02.2022.runtimeconfig.json
+C:\Users\farid\Desktop\P322\Code\28.02.2022task\ConsoleApp28.02.2022\ConsoleApp28.02.2022\bin\Debug\net5.0\ConsoleApp28.02.2022.runtimeconfig.dev.json
+C:\Users\farid\Desktop\P322\Code\28.02.2022task\ConsoleApp28.02.2022\ConsoleApp28.02.2022\bin\Debug\net5.0\ConsoleApp28.02.2022.dll
+C:\Users\farid\Desktop\P322\Code\28.02.2022task\ConsoleApp28.02.2022\ConsoleApp28.02.2022\bin\Debug\net5.0\ConsoleApp28.02.2022.pdb
+C:\Users\farid\Desktop\P322\Code\28.02.2022task\ConsoleApp28.02.2022\ConsoleApp28.02.2022\obj\Debug\net5.0\ConsoleApp28.02.2022.dll
+C:\Users\farid\Desktop\P322\Code\28.02.2022task\ConsoleApp28.02.2022\ConsoleApp28.02.2022\obj\Debug\net5.0\refint\ConsoleApp28.02.2022.dll
+C:\Users\farid\Desktop\P322\Code\28.02.2022task\ConsoleApp28.02.2022\ConsoleApp28.02.2022\obj\Debug\net5.0\ConsoleApp28.02.2022.pdb
+C:\Users\farid\Desktop\P322\Code\28.02.2022task\ConsoleApp28.02.2022\ConsoleApp28.02.2022\obj\Debug\net5.0\ConsoleApp28.02.2022.genruntimeconfig.cache
+C:\Users\farid\Desktop\P322\Code\28.02.2022task\ConsoleApp28.02.2022\ConsoleApp28.02.2022\obj\Debug\net5.0\ref\ConsoleApp28.02.2022.dll
